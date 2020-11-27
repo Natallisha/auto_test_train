@@ -24,3 +24,5 @@ You couldn't hate enough to love
 Is that supposed to be…
 
 The content for the first commit to the branch "feature"
+
+The content for the second commit to the branch "feature"
